@@ -2,6 +2,6 @@
 void main()
 {
 printf("Hey');
-printf("Good morning")
-;
+printf("Good morning");
+printf("Monday");
 }
