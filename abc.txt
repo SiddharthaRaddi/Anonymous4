@@ -1,0 +1,16 @@
+void display()
+{
+int i;
+if(top==1)
+{
+printf("\n Stack is empty");
+}
+else
+{
+printf("\nThe stack elements are:\n");
+for(i-0;i>=0;i++)
+{
+printf("%d\t"stack[i]);
+}
+}
+}
