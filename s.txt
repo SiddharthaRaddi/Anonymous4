@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 sanjana
+=======
+sanj
+patil
+1
+>>>>>>> meow
